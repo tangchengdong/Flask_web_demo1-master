@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 小型问答平台
 
 ## 简介
@@ -95,3 +96,6 @@ python manage.py runserver
 
 这里推荐一本书《Flask Web开发：基于Python的Web应用开发实战》
 
+=======
+# Flask_web_demo1-master
+>>>>>>> 6a78b8816a0abde9f307dc3c4f7b15a4e8ca5368
